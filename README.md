@@ -35,7 +35,7 @@ Below is the database relation schema diagram:
 - **Database Management**: MySQL (PHPMyAdmin)
 - **Server**: Apache (XAMPP)
 
-### Steps
+## Steps
 1. Clone/download the repository
 2. Import the MySQL database
 3. Configure your server settings
